@@ -1,0 +1,404 @@
+{
+  "questions": [
+    {
+      "q": "Which FRIENDS are siblings?",
+      "a": "Monica & Ross",
+      "b": "Rachel & Monica",
+      "c": "Phoebe & Joey",
+      "d": "Chandler & Joey",
+      "z": "Monica & Ross"
+    },
+    {
+      "q": "Who did Rachel almost marry?",
+      "a": "Paolo",
+      "b": "Barry",
+      "c": "Richard",
+      "d": "Joey",
+      "z": "Barry"
+    },
+    {
+      "q": "What is Joey's catch phrase?",
+      "a": "Hey, what's up?",
+      "b": "How's it hanging?",
+      "c": "How you doin?",
+      "d": "How the heck are ya?",
+      "z": "How you doin?"
+    },
+    {
+      "q": "What instrument does Phoebe play?",
+      "a": "Guitar",
+      "b": "Violin",
+      "c": "Piano",
+      "d": "Ululele",
+      "z": "Guitar"
+    },
+    {
+      "q": "Where are Ross, Rachel, and Monica from?",
+      "a": "Connecticut",
+      "b": "Long Island",
+      "c": "New Jersey",
+      "d": "Westchester",
+      "z": "Long Island"
+    },
+    {
+      "q": "What is the name of the coffee house the Friends hang out at?",
+      "a": "Central Perk",
+      "b": "Starbucks",
+      "c": "Central Coffee",
+      "d": "NYC Perk",
+      "z": "Central Perk"
+    },
+    {
+      "q": "What city do the Friends all live?",
+      "a": "Chicago",
+      "b": "New York City",
+      "c": "Los Angeles",
+      "d": "Houston",
+      "z": "New York City"
+    },
+    {
+      "q": "Who is a paleontologist?",
+      "a": "Joey",
+      "b": "Ross",
+      "c": "Monica",
+      "d": "Chandler",
+      "z": "Ross"
+    },
+    {
+      "q": "Who dates Janice first?",
+      "a": "Joey",
+      "b": "Ross",
+      "c": "Chandler",
+      "d": "Gunther",
+      "z": "Chandler"
+    },
+    {
+      "q": "What does Monica do for work?",
+      "a": "Waitress",
+      "b": "Massesuse",
+      "c": "Doctor",
+      "d": "Chef",
+      "z": "Chef"
+    },
+    {
+      "q": "What does Joey do for work?",
+      "a": "Singer",
+      "b": "Model",
+      "c": "Actor",
+      "d": "Nothing",
+      "z": "Actor"
+    },
+    {
+      "q": "What show do Joey and Chandler love to watch?",
+      "a": "Jeopardy",
+      "b": "Wheel of Fortune",
+      "c": "Days of Our Lives",
+      "d": "Baywatch",
+      "z": "Baywatch"
+    },
+    {
+      "q": "Which pets do Joey and Chandler have?",
+      "a": "Dog and Cat",
+      "b": "Dogs",
+      "c": "Chick and Duck",
+      "d": "Cat and Mouse",
+      "z": "Chick and Duck"
+    },
+    {
+      "q": "What is the neighbor's name that lives below Rachel and Monica?",
+      "a": "Mr.Heckles",
+      "b": "Mr.Treiger",
+      "c": "Gunther",
+      "d": "Mr.Sheck",
+      "z": "Mr.Heckles"
+    },
+    {
+      "q": "What is the name of Ross' son?",
+      "a": "Cole",
+      "b": "Dylan",
+      "c": "Michael",
+      "d": "Ben",
+      "z": "Ben"
+    },
+    {
+      "q": "Who is Carol's partner?",
+      "a": "Ursula",
+      "b": "Phoebe",
+      "c": "Monica",
+      "d": "Susan",
+      "z": "Susan"
+    },
+    {
+      "q": "What is the name of Ross' monkey?",
+      "a": "Paolo",
+      "b": "Marcus",
+      "c": "Sir",
+      "d": "Marcel",
+      "z": "Marcel"
+    },
+    {
+      "q": "What does Ross buy for Rachel's birthday?",
+      "a": "A necklace",
+      "b": "A brooch",
+      "c": "flowers",
+      "d": "A sweater",
+      "z": "A brooch"
+    },
+    {
+      "q": "What do Ross and Rachel name their daughter?",
+      "a": "Erika",
+      "b": "Emma",
+      "c": "Karen",
+      "d": "Ruth",
+      "z": "Emma"
+    },
+    {
+      "q": "Who dates Richard?",
+      "a": "Rachel",
+      "b": "Phoebe",
+      "c": "Monica",
+      "d": "Ursula",
+      "z": "Monica"
+    },
+    {
+      "q": "Who does Phoebe end up with?",
+      "a": "Joey",
+      "b": "David",
+      "c": "Mike",
+      "d": "Gunther",
+      "z": "Mike"
+    },
+    {
+      "q": "Where do Chandler and Monica hook up for the first time?",
+      "a": "In Monica's apartment",
+      "b": "In Central Perk",
+      "c": "In London",
+      "d": "In Chandler's apartment",
+      "z": "In London"
+    },
+    {
+      "q": "Where do Ross and Rachel get married?",
+      "a": "London",
+      "b": "Vegas",
+      "c": "Outside Central Perk",
+      "d": "Barbados",
+      "z": "Vegas"
+    },
+    {
+      "q": "Which Friend used to be fat?",
+      "a": "Rachel",
+      "b": "Monica",
+      "c": "Joey",
+      "d": "Chandler",
+      "z": "Monica"
+    },
+    {
+      "q": "Who have been friends since high school?",
+      "a": "Phoebe and Rachel",
+      "b": "Monica and Rachel",
+      "c": "Joey and Chandler",
+      "d": "Ross and Chandler",
+      "z": "Monica and Rachel"
+    },
+    {
+      "q": "Who have been friends since college?",
+      "a": "Joey & Chandler",
+      "b": "Ross & Chandler",
+      "c": "Ross & Rachel",
+      "d": "Monica & Joey",
+      "z": "Ross & Chandler"
+    },
+    {
+      "q": "Which Friend was once homeless?",
+      "a": "Monica",
+      "b": "Phoebe",
+      "c": "Joey",
+      "d": "Gunther",
+      "z": "Phoebe"
+    },
+    {
+      "q": "Which Friend has a twin?",
+      "a": "Monica",
+      "b": "Ross",
+      "c": "Rachel",
+      "d": "Phoebe",
+      "z": "Phoebe"
+    },
+    {
+      "q": "Who introduced Phoebe and Mike?",
+      "a": "Gunther",
+      "b": "Joey",
+      "c": "Chandler",
+      "d": "Ross",
+      "z": "Joey"
+    },
+    {
+      "q": "What song does Ross sing to Emma that makes her laugh?",
+      "a": "Baby got back",
+      "b": "U can't touch this",
+      "c": "Ice ice baby",
+      "d": "What is love",
+      "z": "Baby got back"
+    },
+    {
+      "q": "Where is Rachel's first job after moving to the city?",
+      "a": "Ralph Lauren",
+      "b": "Central Perk",
+      "c": "Bloomingdales",
+      "d": "Gucci",
+      "z": "Central Perk"
+    },
+    {
+      "q": "What is the name of the building superintendant?",
+      "a": "Gunther",
+      "b": "Treeger",
+      "c": "Heckles",
+      "d": "Richard",
+      "z": "Treeger"
+    },
+    {
+      "q": "What is the name of Chandler's crazy roomate?",
+      "a": "Mona",
+      "b": "Marcus",
+      "c": "Matthew",
+      "d": "Eddie",
+      "z": "Eddie"
+    },
+    {
+      "q": "Which of Phoebe's songs gets made into a music video?",
+      "a": "You suck",
+      "b": "Shut up and go home",
+      "c": "Smelly cat",
+      "d": "Little black curly hair",
+      "z": "Smelly cat"
+    },
+    {
+      "q": "What is Richard's job?",
+      "a": "Podiatrist",
+      "b": "Opthalmologist",
+      "c": "Gynecologist",
+      "d": "Dentist",
+      "z": "Opthalmologist"
+    },
+    {
+      "q": "Who gives birth to triplets?",
+      "a": "Phoebe",
+      "b": "Rachel",
+      "c": "Erika",
+      "d": "Monica",
+      "z": "Phoebe"
+    },
+    {
+      "q": "Who's father has a show in Las Vegas",
+      "a": "Ross'",
+      "b": "Chandler's",
+      "c": "Joey's",
+      "d": "Rachel's",
+      "z": "Chandler's"
+    },
+    {
+      "q": "Where is Rachel planning to move in The Last One",
+      "a": "Los Angeles",
+      "b": "Paris",
+      "c": "London",
+      "d": "Venice",
+      "z": "Paris"
+    },
+    {
+      "q": "What did Janice's ex husband sell?",
+      "a": "Cars",
+      "b": "Computers",
+      "c": "Matresses",
+      "d": "Cameras",
+      "z": "Matresses"
+    },
+    {
+      "q": "What did Rachel and Chandler eat off of the floor?",
+      "a": "Ice cream",
+      "b": "Pasta",
+      "c": "Birthday cake",
+      "d": "Cheesecake",
+      "z": "Cheesecake"
+    },
+    {
+      "q": "What does Phoebe get a tattoo of?",
+      "a": "The sun",
+      "b": "The whole world",
+      "c": "A lily",
+      "d": "A heart",
+      "z": "The whole world"
+    },
+    {
+      "q": "Where does Phoebe's birth mom live?",
+      "a": "Connecticut",
+      "b": "Montauk",
+      "c": "Upstate NY",
+      "d": "Pennsylvania",
+      "z": "Montauk"
+    },
+    {
+      "q": "Who gets thier identity stolen?",
+      "a": "Rachel",
+      "b": "Monica",
+      "c": "Phoebe",
+      "d": "Ross",
+      "z": "Monica"
+    },
+    {
+      "q": "What is Chandler's Mom's job?",
+      "a": "Actress",
+      "b": "Author",
+      "c": "Stay at home Mom",
+      "d": "Doctor",
+      "z": "Author"
+    },
+    {
+      "q": "What is Joey's favorite food?",
+      "a": "Pizza",
+      "b": "Sandwiches",
+      "c": "Pasta",
+      "d": "Lasagna",
+      "z": "Sandwiches"
+    },
+    {
+      "q": "What plastic surgery did Rachel have when she was a teenager?",
+      "a": "Botox",
+      "b": "Nose Job",
+      "c": "Breast Implants",
+      "d": "Butt Lift",
+      "z": "Nose Job"
+    },
+    {
+      "q": "What does Phoebe change her name to?",
+      "a": "Phoebe Buffay Hannigan",
+      "b": "Phoebe Hannigan",
+      "c": "Princess Consuela Banana Hammock",
+      "d": "Crap Bag",
+      "z": "Princess Consuela Banana Hammock"
+    },
+    {
+      "q": "Where do they all travel to, when Ross is appointed as key note speaker?",
+      "a": "Miami",
+      "b": "San Diego",
+      "c": "Jamaica",
+      "d": "Barbados",
+      "z": "Barbados"
+    },
+    {
+      "q": "Who gave birth to Chandler and Monica's twins?",
+      "a": "Phoebe",
+      "b": "Erika",
+      "c": "Mona",
+      "d": "Janice",
+      "z": "Erika"
+    },
+    {
+      "q": "What game did Chadler make up to give Joey money?",
+      "a": "Bamboozle",
+      "b": "Cups",
+      "c": "Super Yahtzee",
+      "d": "Fireball",
+      "z": "Cups"
+    }
+  ]
+}

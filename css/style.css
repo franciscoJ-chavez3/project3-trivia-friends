@@ -1,0 +1,74 @@
+.titleBgImg {
+  background-image: url("../images/friendstitle.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.titleSetHeight {
+  height: 100vh;
+}
+
+.menuBgImg {
+  background-image: url("../images/friendmenu2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menuSetWidth {
+  width: 100%;
+}
+
+.optionsBgImg {
+  background-image: url("../images/friendsOptions.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.gameBgImg {
+  background-image: url("../images/friendsPlay2.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.gameFontSize {
+  font-size: 50px;
+}
+
+.lightningForm {
+  width: 500px;
+}
+
+.lightningBgImg {
+  background-image: url("../images/bonusfriends.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.menuP {
+  width: 300px;
+  height: 225px;
+}
+
+.gameBtns {
+  height: 75px;
+  width: 250px;
+}
+
+.winBgImg {
+  background-image: url("../images/winPage.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.loseBgImg {
+  background-image: url("../images/losePage.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
