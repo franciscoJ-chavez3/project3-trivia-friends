@@ -272,7 +272,7 @@ function loadLightning(info) {
     clearTimeout(tictock);
     loadHTML("../injections/lose2.html");
   }*/
-  let tictock = 10;
+  let tictock = 60;
   let myTimer = document.getElementById("myTimer");
   myTimer.innerHTML = tictock;
 
